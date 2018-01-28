@@ -1,9 +1,5 @@
 package webflow
 
-import (
-	"time"
-)
-
 const (
 	webFlowAPIURL = "https://api.webflow.com"
 	// Get All Items For a Collection
